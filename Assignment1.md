@@ -5,6 +5,8 @@
 <p align="center">Engineering and Technology - Spring 2023</p>
 <p align="center">Due: Feb 22nd, 2023</p>
 
+## Submit by emailing a repl link with your code
+
 #### Question #1 - Calculating Payroll
 Write a program that calculates the gross pay for someone earning an hourly wage.
 Input:
