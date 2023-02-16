@@ -5,6 +5,8 @@
 <p align="center">Engineering and Technology - Spring 2023</p>
 <p align="center">Due: March 1st, 2023</p>
 
+## Submit by emailing a repl link with your code
+
 #### Question #1
 Given a list of integers, find the sum of its elements.
 Arr = [1, 2, 3], so this will return 6
