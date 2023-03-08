@@ -3,7 +3,7 @@
 
 <p align="center">Vaughn College of Aeronautics and Technology</p>
 <p align="center">Engineering and Technology - Spring 2023</p>
-<p align="center">Due Date: Mar 8, 2023</p>
+<p align="center">Due Date: Mar 15, 2023</p>
 
 <hr />
 
